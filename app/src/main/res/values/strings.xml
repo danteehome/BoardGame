@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bubble Knight</string>
+
+    <string-array name="setting_items">
+        <item>Sound</item>
+        <item>Language</item>
+    </string-array>
+
+</resources>
